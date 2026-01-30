@@ -1,7 +1,7 @@
 {
   "current_version": "Alpha 0.1",
-  "update_url": "https://github.com/MTGMODS/arizona-helper/raw/refs/heads/main/Arizona%20Helper.lua",
-  "update_info": "- Фиксы многих ошибок, теперь хелпер работает стабильно\n- Пока что без новых функций",
+  "update_url": "https://github.com/luamods/arizona-helper/raw/refs/heads/main/Arizona%20Helper.lua",
+  "update_info": "- Поный перехват арз хелпер \n- Пока что без новых функций",
 
   "vip_current_version": "BETA 12.9.8 VIP",
   "vip_update_info": "- Добавлено PieMenu на мобайл\n- Фиксы многих ошибок, теперь хелпер работает стабильно\n- Пока что без новых функций"
